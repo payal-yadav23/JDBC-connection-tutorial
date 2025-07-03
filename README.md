@@ -32,7 +32,7 @@ Welcome to the **JDBC Connection Tutorial** repository! This project provides a 
 JDBC-connection/
 │
 ├── src/
-│   └── com.jdbc.connection/
+│   └── com.jdbcconnection/
 │       ├── JdbcConnectionExample.java
 │       ├── InsertDataExample.java
 │       ├── ReadDataExample.java
